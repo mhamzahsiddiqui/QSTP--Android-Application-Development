@@ -5,3 +5,6 @@ at students who have had interest in app development and wish to learn the basic
 We begin with a basic revision of Java, and move on to the major focus of this course - app UI
 components and in-app processing . This will give students a good start in this field and they can
 then learn further, and be ready to take up any industry-grade app development project.
+
+First App: https://developer.android.com/training/basics/firstapp/
+Second App: https://www.tutorialspoint.com/android_online_training/android_button.asp
