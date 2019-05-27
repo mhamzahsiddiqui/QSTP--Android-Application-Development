@@ -7,4 +7,5 @@ components and in-app processing . This will give students a good start in this 
 then learn further, and be ready to take up any industry-grade app development project.
 
 First App: https://developer.android.com/training/basics/firstapp/
+
 Second App: https://www.tutorialspoint.com/android_online_training/android_button.asp
